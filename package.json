@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "dependencies": {
     "coffee-script": "latest",
-    "express": "latest",
+    "express": "2.5.9",
     "irc": "latest",
     "ejs": "latest",
 
