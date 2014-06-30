@@ -9,7 +9,7 @@ services:
    image: hamiltont/statbot
    instances:
      statbot: 
-       ship: media
+       ship: my_server
        ports: {api: 3001}
        lifecycle: 
          running: [{type: tcp, port: api}]
